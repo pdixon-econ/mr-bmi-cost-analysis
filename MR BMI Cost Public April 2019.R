@@ -246,13 +246,6 @@ summary(fp100)
 
 ##ELECTIVE
 
-library(TwoSampleMR)
-library(RadialMR)
-library(mr.raps)
-library(ggplot2)
-
-##
-
 getwd()
 
 setwd("...data/")
